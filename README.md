@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juliMillen
-- 👀 I’m interested in knowing and entering the IT world
-- 🌱 I’m currently learning programming
+- 👋 Hola, Soy @juliMillen
+- 👀 Estoy interesado en conocer y adentrarme en el mundo IT
+- 🌱 Actualmente estoy estudiando la carrera programacion
 - 📫 julimillen@gmail.com
 
 <!---
